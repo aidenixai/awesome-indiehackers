@@ -148,6 +148,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 - [Awesome Indie](https://github.com/mezod/awesome-indie)
 - [Awesome Startup](https://github.com/KrishMunot/awesome-startup)
+- [Bootstrapped Credits](https://github.com/aidenixai/bootstrapped-credits) - Startup credits you can get without VC: what bootstrapped companies actually get, how long it lasts, when it was last checked.
 
 <details>
 <summary>🗄️ 1 archived list (removed from the list)</summary>
